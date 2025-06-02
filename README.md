@@ -8,3 +8,6 @@ Zerodha logo + header navigation (Signup, About, Products, Pricing, Supports)
 Centered hero image from official Zerodha site
 Clean and minimal typography section: main heading & subheading
 Clickable "Sign up for free" button (currently links to Google for testing)
+
+Demo : 
+![Screenshot (1)](https://github.com/user-attachments/assets/39cd970a-585a-44d2-b1c0-686d3bf2f305)
